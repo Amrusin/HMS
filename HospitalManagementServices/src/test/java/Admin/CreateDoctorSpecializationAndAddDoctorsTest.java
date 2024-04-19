@@ -22,7 +22,7 @@ public class CreateDoctorSpecializationAndAddDoctorsTest{
 	@Test
 	
 	public void CreateDoctorSpeciaAnsAddDoc() throws IOException, InterruptedException {
-		
+		//changes
 		// TODO Auto-generated method stub
 		/*FileInputStream fis=new FileInputStream(".\\src\\test\\resources\\CommonData.properties");
         Properties p = new Properties();
